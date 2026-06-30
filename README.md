@@ -154,11 +154,11 @@ Comprehensive implementations of linear and non-linear data structures and algor
 </picture>
 
 ## 💼 Latest on LinkedIn
-
-🔹 Sharing my journey in AI, Full Stack Development, and Software Engineering.
-
-🔗 Follow my updates:
-[linkedin.com/in/dharneesh-r-b65a57361](https://www.linkedin.com/in/dharneesh-r-b65a57361)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharneesh-r-b65a57361">
+    <img src="https://img.shields.io/badge/LinkedIn-Dharneesh_R-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 # 🌐 Connect With Me
 
