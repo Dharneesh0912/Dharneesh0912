@@ -136,9 +136,8 @@ Comprehensive implementations of linear and non-linear data structures and algor
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharneesh0912&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Dharneesh0912&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
 </p>
-
 ---
 
 ## 🐍 Contribution Snake
