@@ -153,6 +153,13 @@ Comprehensive implementations of linear and non-linear data structures and algor
     src="https://raw.githubusercontent.com/Dharneesh0912/Dharneesh0912/output/github-contribution-grid-snake.svg">
 </picture>
 
+## 💼 Latest on LinkedIn
+
+🔹 Sharing my journey in AI, Full Stack Development, and Software Engineering.
+
+🔗 Follow my updates:
+[linkedin.com/in/dharneesh-r-b65a57361](https://www.linkedin.com/in/dharneesh-r-b65a57361)
+
 # 🌐 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/dharneesh-r-b65a57361
