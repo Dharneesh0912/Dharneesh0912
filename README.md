@@ -136,7 +136,7 @@ Comprehensive implementations of linear and non-linear data structures and algor
 
 # 🏆 GitHub Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dharneesh0912&theme=darkhub&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Dharneesh0912&theme=onedark)
 
 ---
 
