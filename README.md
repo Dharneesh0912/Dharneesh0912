@@ -133,11 +133,13 @@ Comprehensive implementations of linear and non-linear data structures and algor
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dharneesh0912&theme=github-dark)](https://github.com/Dharneesh0912)
 
 ---
+
 ## 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dharneesh0912&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" />
-</p>
+- ⭐ Active Open Source Contributor
+- 💻 Full Stack Developer
+- 🤖 AI & Data Science Enthusiast
+- 📚 Continuous Learner
 ---
 
 ## 🐍 Contribution Snake
