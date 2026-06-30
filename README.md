@@ -160,15 +160,21 @@ Comprehensive implementations of linear and non-linear data structures and algor
   </a>
 </p>
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/dharneesh-r-b65a57361
+<p align="left">
+<a href="https://www.linkedin.com/in/dharneesh-r-b65a57361">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-🌐 Portfolio: https://dharneesh-portfolio-sigma.vercel.app/
+<a href="https://dharneesh-portfolio-sigma.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-📧 Email: dharneesh912@gmail.com
-
-📍 Coimbatore, Tamil Nadu, India
+<a href="mailto:dharneesh912@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
