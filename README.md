@@ -140,11 +140,16 @@ Comprehensive implementations of linear and non-linear data structures and algor
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-![snake gif](https://github.com/Dharneesh0912/Dharneesh0912/blob/output/github-contribution-grid-snake.svg)
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Dharneesh0912/Dharneesh0912/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Dharneesh0912/Dharneesh0912/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/Dharneesh0912/Dharneesh0912/output/github-contribution-grid-snake.svg">
+</picture>
 
 # 🌐 Connect With Me
 
